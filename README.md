@@ -1,5 +1,28 @@
-### Hi there 👋, I'm Edu Hernández! I specialize in aiding individuals and small companies by strategizing and implementing technology solutions tailored to diverse needs. Simultaneously, I'm on a perpetual journey to enhance my career as a developer 🔭.
+# Hi 👋 I'm Eduardo Hernández
 
-👯 I’m eager to collaborate on technology-related business ventures across various industries.
+Founder @ Bakslash • Product • Software Developer • AI Builder 
 
-💬 Feel free to ask me anything or reach out if you need a hand!
+Building software, AI solutions, and digital products for startups and growing businesses.
+
+My work spans product development, cloud infrastructure, AI applications, and automation. I still love getting my hands dirty building software, designing architectures, and experimenting with new technologies.
+
+## What I'm building
+
+- 🤖 AI Agents & LLM Applications
+- 🧠 RAG Systems
+- 🚀 SaaS Products
+- 🐳 Self-hosted Infrastructure
+- ☁️ Cloud-native Applications
+- ⚡ Developer Tools
+
+## Current interests
+
+- Platform Engineering
+- Infrastructure as Code
+- Kubernetes
+- Observability
+- Distributed Systems
+
+## Let's connect
+
+I'm always happy to chat about startups, software engineering, AI or open source.
