@@ -6,7 +6,7 @@
 <!-- TAGLINE -->
 <p align="center">
   <a href="https://ehernandezvilla.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&center=true&vCenter=true&width=650&lines=Business+Strategy+%C3%97+Technology;Executive+who+ships+code;Full-stack+%7C+LLMs+%7C+RAG+%7C+Agents;2+exits+%E2%80%A2+20x+growth+%40+Bakslash" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Business+Strategy+%C3%97+Technology;Executive+who+ships+code;Full-stack+%7C+LLMs+%7C+RAG+%7C+Agents" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -73,17 +73,19 @@ I don't just manage builders, I build. Full-stack in production, with hands-on A
   <img src="https://streak-stats.demolab.com?user=ehernandezvilla&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-
 ---
 
 ### 📝 Latest from my blog
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ehernandezvilla/ehernandezvilla/output/snake.svg"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=100&section=footer"/>
