@@ -22,9 +22,9 @@
 
 ### 👋 About me
 
-Technology executive who **actually ships code**. 10+ years leading tech companies across LATAM — P&L over **USD 10M+**, two exits (**Easy Taxi → Cabify**, **Viapool → SWVL/NASDAQ**) — now Co-founder & GM at [**Bakslash**](https://github.com/baksl4sh), a software factory serving clients in 🇨🇱 Chile, 🇺🇸 US and 🇳🇿 New Zealand.
+Technology executive who actually ships code. 10+ years leading tech companies across LATAM — P&L over USD 10M+, early-team & C-level through two exits (Easy Taxi → Cabify, Viapool → SWVL/NASDAQ) — now Co-founder & GM at Bakslash, a software factory serving clients in 🇨🇱 Chile, 🇺🇸 US and 🇳🇿 New Zealand.
 
-I don't just manage builders — I build. Full-stack in production, with hands-on AI: LLMs, RAG and autonomous agents wired into real business workflows.
+I don't just manage builders, I build. Full-stack in production, with hands-on AI: LLMs, RAG and autonomous agents wired into real business workflows.
 
 - 🔭 Building AI-powered products & automation at Bakslash (20x revenue growth '24→'26)
 - ⚡ From **strategy & P&L** to **`git push`** — I close the gap between what gets sold and how it's built
