@@ -34,7 +34,7 @@ I don't just manage builders, I build. Full-stack in production, with hands-on A
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Favorite Tech Stack 💟
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -63,30 +63,5 @@ I don't just manage builders, I build. Full-stack in production, with hands-on A
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-### 📊 GitHub Stats
 
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ehernandezvilla&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 📝 Latest from my blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ehernandezvilla/ehernandezvilla/output/snake.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=100&section=footer"/>
-</p>
