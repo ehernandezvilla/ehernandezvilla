@@ -14,7 +14,7 @@
   <a href="https://ehernandezvilla.dev"><img src="https://img.shields.io/badge/Website-ehernandezvilla.dev-0a66c2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ehernandezvilla/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/ehernandezvilla"><img src="https://img.shields.io/badge/dev.to-blog-0a0a0a?style=flat-square&logo=devdotto&logoColor=white"/></a>
-  <a href="https://x.com/ehernandezvilla"><img src="https://img.shields.io/badge/X-@ehernandezvilla-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/eduhvilla"><img src="https://img.shields.io/badge/X-@ehernandezvilla-000000?style=flat-square&logo=x&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ehernandezvilla&style=flat-square&color=26d0ce"/>
 </p>
 
